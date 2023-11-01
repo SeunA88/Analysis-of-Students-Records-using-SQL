@@ -7,6 +7,8 @@ After an introductuctory session in SQL, an understanding of the basics of getti
 
 This started with creating a Database named “Students Record”. Please find below the SQL query used for this:
 
+![](query1.png)
+
 ![](Database.png)
 
 After this, the following tables were then added to the database "Students Record"
