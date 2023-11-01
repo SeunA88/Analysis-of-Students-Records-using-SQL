@@ -30,7 +30,6 @@ Also, the following modifications were added to the Students Info table:
 - Column name was changed from ‘’Subject” to ‘’Course”
 
 ![](Colum_change_subject.png)
-
 - The “Age” column was dropped
 
   ![](Drop_age.png)
