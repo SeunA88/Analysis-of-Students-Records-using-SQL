@@ -34,7 +34,7 @@ Kindly see below, the details of all queries used in this analysis.
 ![](All_queries.png)
  
  ## Conclusion
-Based on the analysis above, an understanding of the basics of SQL has been shown which is a good foundation into the main analysis aspect of SQL. 
+Based on the analysis above, an understanding of the basics of SQL has been shown which is a good foundation into the retrieving data using SQL which is key to data analysis. 
 
  
 
