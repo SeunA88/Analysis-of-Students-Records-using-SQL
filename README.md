@@ -12,15 +12,20 @@ This started with creating a Database named “Students Record”. Please find b
 ![](Database.png)
 
 After this, the following tables were then added to the database "Students Record"
-- Students Info (Student ID PK, Gender, Name, Age, Subject)
-- Health records (Health ID PK, Blood Group, Height, Weight)
+- Student Info (Student ID PK, Gender, Name, Age, Subject)
+- Health record (Health ID PK, Blood Group, Height, Weight)
 - Performance (Student ID FK, HEALTH FK,  Score, Grade)
   
 ![](Students_records.png)
 
-![](health.png)
+![](Student_info.png)
+![](Student_info1.png)
 
-![](performance.png)
+![](health_record.png)
+![](health_record1.png)
+
+![](performance1.png)
+![](performance2.png)
 
 A constraint that prevents the ID and Subject from taking null values was added
 
