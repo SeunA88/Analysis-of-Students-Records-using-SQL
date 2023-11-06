@@ -11,7 +11,8 @@ This started with creating a Database named “Students Record”. Please find b
 
 ![](Database.png)
 
-After this, the following tables were then added to the database "Students Record"
+
+#### After this, the following tables were then added to the database "Students Record"
 - Student Info (Student ID PK, Gender, Name, Age, Subject)
 - Health record (Health ID PK, Blood Group, Height, Weight)
 - Performance (Student ID FK, HEALTH FK,  Score, Grade)
@@ -30,23 +31,25 @@ After this, the following tables were then added to the database "Students Recor
 ![](performance1.png) ![](performance2.png)
 
 
-A constraint that prevents the ID and Subject from taking null values was added
+#### A constraint that prevents the ID and Subject from taking null values was added
 
 ![](Null.png)
 
 
-Also, the following modifications were added to the Students Info table:
+#### Also, the following modifications were added to the Students Info table:
 - Column name was changed from ‘’Subject” to ‘’Course”
 
 
 ![](Colum_change_subject.png)
+
+
 - The “Age” column was dropped
 
 
 ![](Drop_age.png)
 
 
-Kindly see below, the details of all queries used in this analysis.
+#### Kindly see below, the details of all queries used in this analysis.
   
 ![](All_queries.png)
  
