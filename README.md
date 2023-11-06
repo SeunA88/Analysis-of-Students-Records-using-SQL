@@ -18,14 +18,12 @@ After this, the following tables were then added to the database "Students Recor
   
 ![](Students_records.png)
 
-![](Student_info.png)
-![](Student_info1.png)
+![](Student_info1.png) ![](Student_info.png)
 
-![](health_record.png)
-![](health_record1.png)
 
-![](performance1.png)
-![](performance2.png)
+![](health_record.png) ![](health_record1.png)
+
+![](performance1.png) ![](performance2.png)
 
 A constraint that prevents the ID and Subject from taking null values was added
 
